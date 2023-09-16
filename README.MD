@@ -1,4 +1,4 @@
-# Greeting
+# Introduction
 
 Welcome to the Learn Javascript With NineOne91 website. This simple website showcases the implementation of JavaScript classes, switch statements, and try-catch-finally. You can perform addition operations, retrieve the day of the week based on an index, and try out division operations.
 
